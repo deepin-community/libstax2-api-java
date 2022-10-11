@@ -1,0 +1,29 @@
+libstax2-api-java (4.1-1) unstable; urgency=medium
+
+  * New upstream release.
+    + Update maven rules accordingly.
+  * Update Vcs-* after moving to salsa.
+  * Update to debhelper 11.
+  * Bump Standards-Version to 4.1.4.
+
+ -- Giovanni Mascellani <gio@debian.org>  Sat, 23 Jun 2018 16:08:25 +0200
+
+libstax2-api-java (4.0.0-1) experimental; urgency=medium
+
+  * Move the package to git.
+    + Update Vcs-* fields accordingly.
+  * Update project homepage and debian/watch URL.
+  * New upstream release.
+  * Remove traces of tarball sanitizer, which is not required anymore.
+  * Switch build system to dh 10.
+  * Update debian/copyright.
+  * Bump Standards-Version to 4.1.1.
+    + Change priority to optional.
+
+ -- Giovanni Mascellani <gio@debian.org>  Fri, 03 Nov 2017 14:51:38 +0100
+
+libstax2-api-java (3.1.1-1) unstable; urgency=low
+
+  * Initial release (closes: #638627).
+
+ -- Giovanni Mascellani <gio@debian.org>  Sat, 20 Aug 2011 12:46:37 +0200

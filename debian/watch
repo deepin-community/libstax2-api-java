@@ -1,0 +1,2 @@
+version=3
+https://github.com/FasterXML/stax2-api/releases .*/stax2-api-(\d\S*)\.tar\.gz
